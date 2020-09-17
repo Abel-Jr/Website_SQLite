@@ -8,5 +8,5 @@ Many actions can be performed:
   - Via this site, user can generate an invoice, also write feedback for example
   
  
- I used SQLite because I wanted all actions to be available with a portable database and not just used as a local host.
+ I used SQLite because I wanted all actions to be available with a portable database and not just used as local host.
  

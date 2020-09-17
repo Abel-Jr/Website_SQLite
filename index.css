@@ -1,0 +1,73 @@
+.form {
+    border-style: solid;
+    position: absolute;
+    top: 25%;
+    right: 20%;
+    width: 40%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.carousel-inner img {
+  width: 30%;
+  height: 10%;
+  /*position: relative;
+  top: 22%;
+  left: 35%;*/
+  }
+
+
+.separator{
+  border: 1px solid black;
+  width: 40%;
+}
+
+#carouselExampleControls{
+  width: 100%;
+  height: 100%;
+}
+
+
+.up {
+    text-align: center;
+}
+
+.list{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+ul {
+  background-color: #0b5eee;
+}
+
+li {
+    float: left;
+  }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+
+
+#ajouter{
+  border-style: solid;
+}
+
+
+
+  .foot{
+      
+      background-color:rgb(8, 8, 8) ;
+      color: white;
+  }
